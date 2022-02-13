@@ -1,0 +1,16 @@
+{
+  "name": "libbibsearch",
+  "version": "1.0.0",
+  "description": "Helps checks if UC Berkeley currently owns books and references",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cameron_flynn@berkeley.edu",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.0",
+    "objects-to-csv": "^1.3.6"
+  }
+}
